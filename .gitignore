@@ -33,4 +33,4 @@ google-services.json
 # Android Profiling
 *.hprof
 OneBitCoin/
-OneBitCoin/
+echo "OneBitCoin/" >> .gitignore
